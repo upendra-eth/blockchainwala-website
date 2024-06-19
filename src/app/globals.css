@@ -1,0 +1,71 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Set min height for full screen view */
+.min-h-screen {
+  min-height: 100vh;
+}
+
+/* Use Web3-inspired colors and gradients */
+.bg-web3-gray {
+  background-color: #f0f4f8;
+}
+
+.bg-web3-dark {
+  background-color: #131419;
+}
+
+.bg-web3-gradient {
+  background-image: linear-gradient(to right, #4b8fff, #8247e5);
+}
+
+.bg-web3-radial {
+  background-image: radial-gradient(ellipse farthest-corner at center, #4b8fff 0%, #131419 100%);
+}
+
+/* Aspect ratio settings for the iframe container */
+.relative {
+  position: relative;
+}
+
+.pb-9\/16 {
+  padding-bottom: 56.25%; /* 16:9 aspect ratio */
+}
+
+.absolute {
+  position: absolute;
+}
+
+.top-0 {
+  top: 0;
+}
+
+.left-0 {
+  left: 0;
+}
+
+.w-full {
+  width: 100%;
+}
+
+.h-full {
+  height: 100%;
+}
+
+/* Text colors */
+.text-web3-dark {
+  color: #131419;
+}
+
+.text-web3-blue {
+  color: #4b8fff;
+}
+
+.text-web3-purple {
+  color: #8247e5;
+}
+
+.text-web3-pink {
+  color: #ff7b9e;
+}
