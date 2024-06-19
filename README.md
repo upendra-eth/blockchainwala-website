@@ -1,10 +1,4 @@
-Here is an updated README file for your blockchainwala-website, including details about your website's features, components, and additional resources.
-
----
-
 # Blockchain Wala
-
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Overview
 
@@ -48,21 +42,3 @@ This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-opti
 - **src/components/Projects.js**: Projects section component.
 - **src/components/BlockchainTech.js**: Blockchain technology section component.
 
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - Learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - An interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - Your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
-
----
-
-This README file now includes information about the project features, structure, and additional resources to help you and others get started with the project.
